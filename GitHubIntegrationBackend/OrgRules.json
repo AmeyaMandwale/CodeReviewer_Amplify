@@ -1,0 +1,8 @@
+{
+  "1": "Avoid using console.log in production code.",
+  "2": "Use const instead of let where values never change.",
+  "3": "Validate all user inputs to avoid injection attacks.",
+  "4": "Handle all async operations with try/catch.",
+  "5": "Functions should not exceed 50 lines for readability.",
+  "6": "All variable and function names must start with the 'ctpl' prefix (e.g., ctplUserData, ctplProcessInput)."
+}
